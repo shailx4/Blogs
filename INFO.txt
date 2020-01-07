@@ -1,1 +1,1 @@
-abc
+%USERPROFILE%\AppData\Local\Microsoft\WindowsApps
